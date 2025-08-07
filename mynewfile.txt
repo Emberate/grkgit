@@ -1,1 +1,3 @@
 Today is friday
+
+tomorrow is sunday
